@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I used to use the warpkez moniker, but not as much now.  Currently in the process of change and re-evaulation as I reconsider my IT career.
+
+Wayne.
+
 <!--
 **warpkez/warpkez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
